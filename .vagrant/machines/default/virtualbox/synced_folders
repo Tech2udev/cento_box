@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/public_html":{"guestpath":"/home/vagrant/public_html","hostpath":"/Users/matthewstanley/Vagrant/centOS","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/matthewstanley/Vagrant/centOS","disabled":false,"__vagrantfile":true}}}
