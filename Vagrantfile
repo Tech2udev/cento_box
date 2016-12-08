@@ -33,7 +33,7 @@ Vagrant.configure("2") do |config|
   config.vm.synced_folder "./", "/home/vagrant/public_html"
 
   # Customize the amount of memory on the VM:
-  vb.memory = "512"
+  # vb.memory = "512"
   # hostname
   config.vm.hostname = "centos.dev"
 
